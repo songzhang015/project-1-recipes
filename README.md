@@ -9,7 +9,7 @@ Built as part of [The Odin Project](https://www.theodinproject.com/) curriculum 
 - Written recipes with ingredients, instructions, and pictures
 
 ## Demo
-### [Live Demo](https://songzhang015.github.io/project-1-recipes/)
+<h3><a href="https://songzhang015.github.io/project-1-recipes/" target="_blank">Live Demo</a><h3>
 
 <img src="preview.png" alt="Preview" width="650">
 
