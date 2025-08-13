@@ -1,6 +1,6 @@
 # Recipes
 
-A collection of three recipes - Sesame Chicken, Korean Fried Chicken, and Chocolate Chip Cookies
+A collection of three recipes - Sesame Chicken, Korean Fried Chicken, and Chocolate Chip Cookies.
 
 Built as part of [The Odin Project](https://www.theodinproject.com/) curriculum to practice **basic HTML**, **linking websites**, and **lists + paragraphs**.
 
